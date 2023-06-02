@@ -4,4 +4,4 @@ The Project is based on the 2 datasets of Excel files. With the help of dataset,
 
 Tool/Environment : Microsoft Power Bi
 
-This project shows insights of basics of DAX i.e. Data Analysis Expression, Data Modelling and Dashboard. 
+This project shows insights of basics of DAX i.e. Data Analysis Expression, Data Modelling and Dashboard of Microsoft Power Bi. 
